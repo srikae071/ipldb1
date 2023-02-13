@@ -75,4 +75,4 @@ class TeamMatches extends Component {
     return <div>{this.renderTeamMatches()}</div>
   }
 }
-export default TeamMatch
+export default TeamMatches
